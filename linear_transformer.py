@@ -8,7 +8,6 @@
 # the paper at https://arxiv.org/pdf/2306.00297.pdf
 ###########################################
 
-
 import torch
 from torch import nn
 import numpy as np
